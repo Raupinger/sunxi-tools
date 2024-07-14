@@ -1,5 +1,4 @@
 name: Build host tools
-
 on:
   push:
     branches: [ master ]
